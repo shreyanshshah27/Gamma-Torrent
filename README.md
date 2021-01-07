@@ -92,9 +92,9 @@ Until now, only few features have been completed, rather are yet to implement
 
 ## Authors
 
-[**Shreyansh Shah**](https://github.com/shreyanshshah27), [**Manav Vagrecha**](https://github.com/caped-crusader16) , [**Devam Shah**](https://github.com/Devam911) , 
+[**Shreyansh Shah**](https://github.com/shreyanshshah27), [**Manav Vagrecha**](https://github.com/caped-crusader16) , [**Devam Shah**](https://github.com/Devam911)
 
 ### Support
 
 - If you really like the project then please give us a star :star:
-- If you are interested to add some new features or make any improvements, ping me up at [Email](shreyansh.s@ahduni.edu.in) with a detailed explanation of your approach **OR** send a pull request **OR** File an issue with detailed description.
+- If you are interested to add some new features or make any improvements, ping me up at (shreyansh.s@ahduni.edu.in) with a detailed explanation of your approach **OR** send a pull request **OR** File an issue with detailed description.
