@@ -16,20 +16,6 @@ Simple Implementation of BitTorrent-Client in Python
 Gamma-Torrent (γ-Torrent) is a basic Python based BitTorrent-Client tool which can be accessed using Command-Line-Interface. It was created as an end semester collaborative project for Computer Networks course. The main motive of this project was to implement simple Bittorrent-Client adn add few innovative ideas to improve the performance of GammaTorrent. 
 
 
-### Features
-
-Until now, only few features have been completed, rather are yet to implement
-- [X] HTTP scraper
-- [X] UDP scraper
-- [X] Connecting peers and Handshaking
-- [X] BitTorrent Peer to Tracker Communication
-- [X] Rarest Piece First Algo *(Yet left to intergrate it)*
-- [X] Can download multiple files from a single torrent
-- [ ] Cannot Run with multiple torrent files a time. *(Ofcourse you can use multiple terminals and download content using torrents individually)*
-- [ ] Pause / Resume Functionality is missing yet
-- [ ] Adding more algos like End-Game Algo, Super Seeding Algo, Tit-for-Tat Algo (Choking Algo), etc. for making GammaTorrent more efficient
-- [ ] Downloading and Uploading speeds
-
 ### Installation
 
 - Clone the repo using :
